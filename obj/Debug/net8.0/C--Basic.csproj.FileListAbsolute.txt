@@ -1,0 +1,15 @@
+D:\Web Development\Coding\C--Basic\bin\Debug\net8.0\C--Basic.exe
+D:\Web Development\Coding\C--Basic\bin\Debug\net8.0\C--Basic.deps.json
+D:\Web Development\Coding\C--Basic\bin\Debug\net8.0\C--Basic.runtimeconfig.json
+D:\Web Development\Coding\C--Basic\bin\Debug\net8.0\C--Basic.dll
+D:\Web Development\Coding\C--Basic\bin\Debug\net8.0\C--Basic.pdb
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.AssemblyInfoInputs.cache
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.AssemblyInfo.cs
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.csproj.CoreCompileInputs.cache
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.sourcelink.json
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.dll
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\refint\C--Basic.dll
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.pdb
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\C--Basic.genruntimeconfig.cache
+D:\Web Development\Coding\C--Basic\obj\Debug\net8.0\ref\C--Basic.dll
